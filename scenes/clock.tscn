@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://c11omm5orxnri"]
+
+[node name="Clock" type="Node2D"]
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+position = Vector2(333, 431)
+scale = Vector2(11.81, 3.65)
+color = Color(0, 1, 1, 1)
+polygon = PackedVector2Array(100, 0, 0, 100, 0, 0)
