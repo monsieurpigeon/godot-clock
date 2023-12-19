@@ -3,7 +3,7 @@
 [node name="Clock" type="Node2D"]
 
 [node name="Polygon2D" type="Polygon2D" parent="."]
-position = Vector2(333, 431)
+position = Vector2(9.99997, -7)
 scale = Vector2(11.81, 3.65)
 color = Color(0, 1, 1, 1)
 polygon = PackedVector2Array(100, 0, 0, 100, 0, 0)
