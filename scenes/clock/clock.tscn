@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=3 uid="uid://c11omm5orxnri"]
 
-[ext_resource type="Script" path="res://scenes/clock.gd" id="1_h22v8"]
+[ext_resource type="Script" path="res://scenes/clock/clock.gd" id="1_h22v8"]
 
 [sub_resource type="Gradient" id="Gradient_uto5q"]
 offsets = PackedFloat32Array(0.98, 1)
